@@ -1,0 +1,9 @@
+streamlit==1.28.0
+pandas==2.2.2
+numpy==1.26.5
+plotly==5.13.1
+requests==2.31.0
+feedparser==6.0.10
+nltk==3.9.0
+transformers==4.42.0
+torch==2.2.2
